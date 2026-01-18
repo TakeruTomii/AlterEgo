@@ -5,6 +5,11 @@
 * I wished there was a system that would just "post a quick note automatically based on my Google Calendar status."
 * Thus, the "Secretary Bot" that automatically responds based on Google Calendar was born.
 
+## Usage
+* Auto reply when:
+   * You have an event in Google Calendar now. 
+   * You are in a huddle.
+
 ## Example notification
 ![](./assets/example_notification.png)
 
