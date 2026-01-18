@@ -25,6 +25,7 @@ I considered using [Make](https://apps.make.com/slack), but I ultimately chose G
 3. In the "OAuth & Permissions" menu on the left, add the following to "Bot Token Scopes" under the Scopes section:
 * `channels:history`
 * `chat:write`
+* `users.profile:read`
 
 #### Define Bot User
 This step might already be configured by default. If so, you can skip it.
